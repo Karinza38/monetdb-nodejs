@@ -1,4 +1,4 @@
-# MonetDB Node.js
+ MonetDB Node.js
 
 ![Linux](https://github.com/MonetDB/monetdb-nodejs/workflows/Linux/badge.svg)
 ![macOS](https://github.com/MonetDB/monetdb-nodejs/workflows/macos/badge.svg)
